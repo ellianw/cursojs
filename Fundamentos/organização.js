@@ -1,1 +1,0 @@
-console.log("EAE GÃY TÁ EM XOK?");
